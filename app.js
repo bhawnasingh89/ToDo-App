@@ -1,5 +1,3 @@
-let h1 = document.querySelector("h1");
-let container = document.querySelector(".container");
 let input = document.querySelector(".taskInput");
 let btn1 =  document.querySelector(".btn-add");
 let text = document.querySelector(".text");
